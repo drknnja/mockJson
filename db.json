@@ -1,21 +1,5 @@
 [
-  {
-    "_id": "globales",
-    "prioridades": [
-      "cuba",
-      "bulnes",
-      "incas",
-      "lib5624",
-      "zapiola1707",
-      "zapiola1786",
-      "sarmiento",
-      "arredondo",
-      "conesa",
-      "freire1751"
-    ],
-    "estado": "finalizado"
-  },
-  {
+ {
     "_id": 38,
     "consorcio": "ohiggins",
     "nota": "punitorios 10% a partir de agosto23",
