@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "globales",
+    "prioridades": [
+      "cuba",
+      "bulnes",
+      "incas",
+      "lib5624",
+      "zapiola1707",
+      "zapiola1786",
+      "sarmiento",
+      "arredondo",
+      "conesa",
+      "freire1751"
+    ],
+    "estado": "finalizado"
+  },
+  {
+    "_id": 38,
+    "consorcio": "ohiggins",
+    "nota": "punitorios 10% a partir de agosto23",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 26,
+    "consorcio": "freire 1751",
+    "nota": "exceso de hora de estacionamiento en la cochera de cortesía ( es uno solo ) 5-17 = 6 horas :  ",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 27,
+    "consorcio": "pasteur",
+    "nota": "FAC_B_0004_0000023962 Christoph saldo -no veo anticipo  ",
+    "solucion": "El anticipo no es de un mes anterior sino de este mismo mes pero es del 60% no del 50% ",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 7,
+    "consorcio": "cuba",
+    "nota": "cuota 4/12 SEINTE -provision  ",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 29,
+    "consorcio": "cavia",
+    "nota": "Ojo => Descontar $35000 seña de retapizado sillon de la Fc. 91 de Tapiceria Rio",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 4,
+    "consorcio": "sarmiento",
+    "nota": "punitorios 2%=>5% Agosto ",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 44,
+    "consorcio": "bogado",
+    "nota": "punitorios 2%=>4% Agosto ",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 3,
+    "consorcio": "malabia",
+    "nota": "ojo CUOTA EXTRAORD 2/3 $333.333.33",
+    "estado": "pendiente"
+  },
+  {
+    "_id": 40,
+    "consorcio": "Libertador 5242",
+    "nota": "cuota 9/12 Patagonia Flooring $171254.50 y devolucion por no uso de caldera --metrogas",
+    "estado": "finalizado"
+  },
+  {
+    "_id": 42,
+    "consorcio": "11 de Septiembre",
+    "nota": "liquidar la cuota 2/6 de banchero que se empezo a liqudiar en julio",
+    "estado": "finalizado"
+  }
+]
